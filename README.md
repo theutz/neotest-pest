@@ -1,10 +1,16 @@
 # neotest-pest
 
+> [!CAUTION]
+> This package has been archived and will receive no more updates. Please
+> consider switching to [V13Axel/neotest-pest](https://github.com/V13Axel/neotest-pest).
+
 [![Tests](https://github.com/theutz/neotest-pest/actions/workflows/ci.yml/badge.svg)](https://github.com/theutz/neotest-pest/actions/workflows/ci.yml)
 
-This plugin provides a [Pest](https://pestphp.com) adapter for the [Neotest](https://github.com/nvim-neotest/neotest) framework.
+This plugin provides a [Pest](https://pestphp.com) adapter for the
+[Neotest](https://github.com/nvim-neotest/neotest) framework.
 
-:warning: _This plugin is still in the early stages of development. Please test against your Pest tests_ :warning:
+:warning: _This plugin is still in the early stages of development. Please test
+against your Pest tests_ :warning:
 
 ## :package: Installation
 
